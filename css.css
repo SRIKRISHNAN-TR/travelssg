@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("pink-flowering-cherry-tree.jpg");
+    background-image: url("./pink-flowering-cherry-tree.jpg");
     background-color: #333;
 }
 
@@ -42,17 +42,17 @@ section {
 }
 
 #tokyo {
-    background-image: url("proima1.jpg");
+    background-image: url("./proima1.jpg");
     height: 400px; 
 }
 
 #kyoto {
-    background-image: url("kyoto.jpg");
+    background-image: url("./kyoto.jpg");
     height: 400px;
 }
 
 #osaka {
-    background-image: url("osaka.jpg");
+    background-image: url("./osaka.jpg");
     height: 400px; 
 }
 
