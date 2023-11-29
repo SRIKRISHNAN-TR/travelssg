@@ -1,0 +1,27 @@
+body {
+    background-image: url("D:\pink-flowering-cherry-tree.jpg");
+     /* background-color: aqua;  */
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-position: center;
+    /* width: fit-content; */
+    background-size: cover;
+}
+
+
+
+h1 {
+    background-color: aliceblue;
+    display: flex;
+    align-content: center;
+    position: absolute;
+    top: 130px;
+    left: 300px;
+    color: crimson; /* Text color */
+    font-size: 2em; 
+    text-align: center; 
+}
+p{
+    color: crimson; /* Text color */
+
+}
